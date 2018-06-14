@@ -1,5 +1,7 @@
 # IPresponse_heroku
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/realdennis/IPresponse_heroku.svg)](https://greenkeeper.io/)
+
 寫了一個可以偵測請求IP並response的腳本，放在Heroku上頭，記錄一下會遇到的問題以及各種新手坑，有錯的話歡迎發Issue/PR幫我補充。
 
 ## 關於Heroku
